@@ -1,0 +1,39 @@
+Predictions for the next 7 days (Sleep):
+XGBoost:
+  Day 25: 7188.84
+  Day 26: 7188.84
+  Day 27: 7188.84
+  Day 28: 4740.61
+  Day 29: 4740.61
+  Day 30: 4707.00
+  Day 31: 4707.00
+CatBoost:
+  Day 25: 5341.37
+  Day 26: 6007.44
+  Day 27: 6256.14
+  Day 28: 5582.84
+  Day 29: 5248.47
+  Day 30: 5053.69
+  Day 31: 4718.65
+LightGBM:
+  Day 25: 4707.04
+  Day 26: 4707.04
+  Day 27: 4707.04
+  Day 28: 5321.03
+  Day 29: 5321.03
+  Day 30: 4707.04
+  Day 31: 4707.04
+GBR:
+  Day 25: 4597.42
+  Day 26: 4964.79
+  Day 27: 5252.93
+  Day 28: 5273.67
+  Day 29: 5262.87
+  Day 30: 4817.26
+  Day 31: 4717.12
+
+Mean Squared Errors:
+XGBoost: 3960582.55
+CatBoost: 4742340.45
+LightGBM: 7138454.43
+GBR: 5620771.55

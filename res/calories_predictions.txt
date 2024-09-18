@@ -1,0 +1,39 @@
+Predictions for the next 7 days (Calories):
+XGBoost:
+  Day 31: 15180.00
+  Day 32: 15180.00
+  Day 33: 15180.00
+  Day 34: 15180.00
+  Day 35: 15180.00
+  Day 36: 15180.00
+  Day 37: 15180.00
+CatBoost:
+  Day 31: 20524.82
+  Day 32: 23165.75
+  Day 33: 26494.20
+  Day 34: 28883.48
+  Day 35: 27041.19
+  Day 36: 21201.17
+  Day 37: 15273.66
+LightGBM:
+  Day 31: 15180.74
+  Day 32: 15180.74
+  Day 33: 15180.74
+  Day 34: 15180.74
+  Day 35: 15180.74
+  Day 36: 15180.74
+  Day 37: 15180.74
+GBR:
+  Day 31: 15180.95
+  Day 32: 15180.95
+  Day 33: 15180.95
+  Day 34: 15180.72
+  Day 35: 15809.27
+  Day 36: 15809.27
+  Day 37: 15180.95
+
+Mean Squared Errors:
+XGBoost: 1815946.41
+CatBoost: 455049.88
+LightGBM: 1816154.72
+GBR: 1816240.68

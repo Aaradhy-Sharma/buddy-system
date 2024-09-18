@@ -1,0 +1,39 @@
+Predictions for the next 7 days (Heart Rate):
+XGBoost:
+  Day 31: 21590.15
+  Day 32: 21590.15
+  Day 33: 21590.15
+  Day 34: 21590.15
+  Day 35: 21590.13
+  Day 36: 21590.01
+  Day 37: 21590.01
+CatBoost:
+  Day 31: 34665.06
+  Day 32: 39736.71
+  Day 33: 56783.35
+  Day 34: 58220.12
+  Day 35: 53124.23
+  Day 36: 37939.71
+  Day 37: 21744.63
+LightGBM:
+  Day 31: 21591.57
+  Day 32: 21591.57
+  Day 33: 21591.57
+  Day 34: 21591.57
+  Day 35: 21591.57
+  Day 36: 21591.57
+  Day 37: 21591.57
+GBR:
+  Day 31: 20928.57
+  Day 32: 18929.27
+  Day 33: 24668.35
+  Day 34: 24773.44
+  Day 35: 28864.04
+  Day 36: 28864.04
+  Day 37: 21921.33
+
+Mean Squared Errors:
+XGBoost: 159502190.14
+CatBoost: 65283749.39
+LightGBM: 177661926.30
+GBR: 161262117.86
